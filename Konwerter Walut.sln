@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konwerter Walut", "Konwerter Walut\Konwerter Walut.csproj", "{C8E1F622-C400-46AE-BD52-587BEE34DA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E1F622-C400-46AE-BD52-587BEE34DA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E1F622-C400-46AE-BD52-587BEE34DA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E1F622-C400-46AE-BD52-587BEE34DA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E1F622-C400-46AE-BD52-587BEE34DA76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E64D7E08-2117-4DCB-B1FF-06FCB0CEBF04}
+	EndGlobalSection
+EndGlobal

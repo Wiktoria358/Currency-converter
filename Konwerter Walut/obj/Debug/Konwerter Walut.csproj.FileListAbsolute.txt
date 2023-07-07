@@ -1,0 +1,11 @@
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\bin\Debug\Konwerter Walut.exe.config
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\bin\Debug\Konwerter Walut.exe
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\bin\Debug\Konwerter Walut.pdb
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\obj\Debug\Konwerter Walut.csproj.AssemblyReference.cache
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\obj\Debug\Konwerter Walut.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\obj\Debug\Konwerter_Walut.Properties.Resources.resources
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\obj\Debug\Konwerter Walut.csproj.GenerateResource.cache
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\obj\Debug\Konwerter Walut.csproj.CoreCompileInputs.cache
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\obj\Debug\Konwerter Walut.exe
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\obj\Debug\Konwerter Walut.pdb
+C:\Users\wkupi\source\repos\Konwerter Walut\Konwerter Walut\obj\Debug\Konwerter_Walut.Form1.resources
